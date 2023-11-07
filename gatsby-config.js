@@ -2,12 +2,11 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Brittany Chiang',
+    title: 'Thapasya Murali',
     description:
-      'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+      'Brittany Chiang is a software engineer who specializes in enjoys solving data-intensive cloud problems (and occasionally designing) scalable ETL pipelines.',
+    siteUrl: 'https://thapasya-murali.netlify.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -20,8 +19,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Brittany Chiang',
-        short_name: 'Brittany Chiang',
+        name: 'Thapasya Murali',
+        short_name: 'Thapasya Murali',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
