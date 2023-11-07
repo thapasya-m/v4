@@ -130,15 +130,15 @@ const About = () => {
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
       <h2 className="numbered-heading">About Me</h2>
-
       <div className="inner">
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! I'm Thapasya and I enjoy toying with data especially at large scale. My growing
+              interest dates back to 2017 updating backend API &amp; SQL framework with Azure
+              messaging queue. Over the years, I built various ETL pipeline using KafKa streaming &
+              AWS cloud services. Currently, I am finishing my grad school majoring in data
+              science!!
             </p>
 
             <p>
