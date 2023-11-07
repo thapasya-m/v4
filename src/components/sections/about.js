@@ -125,7 +125,18 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = [
+    'Apache Spark',
+    'Hadoop',
+    'Kafka',
+    'Databricks',
+    'AWS',
+    'Azure',
+    'AWS CLI & Bash',
+    'JavaScript (ES6+)',
+    'Tensorflow',
+    'Jenkins',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -141,7 +152,7 @@ const About = () => {
               science!!
             </p>
 
-            <p>
+            {/* <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
               <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
               <a href="https://starry.com/">a start-up</a>,{' '}
@@ -159,7 +170,7 @@ const About = () => {
               </a>{' '}
               that covers everything you need to build a web app with the Spotify API using Node
               &amp; React.
-            </p>
+            </p> */}
 
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
