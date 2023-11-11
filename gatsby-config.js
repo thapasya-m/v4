@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Thapasya Murali',
     description:
-      'Brittany Chiang is a software engineer who specializes in enjoys solving data-intensive cloud problems (and occasionally designing) scalable ETL pipelines.',
+      'Thapasya Murali is an aspiring engineer who specializes in enjoys solving data-intensive cloud problems (and occasionally designing) scalable ETL pipelines.',
     siteUrl: 'https://thapasya-murali.netlify.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
   },
