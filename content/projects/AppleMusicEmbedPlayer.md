@@ -1,14 +1,14 @@
 ---
-date: '2017-12-01'
-title: 'Apple Music Embeddable Web Player Widget'
-github: ''
-external: 'https://tools.applemusic.com/en-us'
+date: '2023-08-01'
+title: 'NYC bike - Usage forecast'
+github: 'https://github.com/thapasya-m/dscc202-402-spring2023'
+external: ''
 tech:
-  - MusicKit.js
-  - JS
-  - SCSS
-company: 'Apple'
-showInProjects: true
+  - Databricks
+  - PySpark
+  - Jupyter Notebook
+company: 'UoR'
+showInProjects: false
 ---
 
-Embeddable web player widget for Apple Music that lets users log in and listen to full song playback in the browser leveraging [MusicKit.js](https://developer.apple.com/documentation/musickitjs). Read more about this project on [9to5Mac](https://9to5mac.com/2018/06/03/apple-music-embeddable-web-player-listen-browser/).
+Built a biking forecast model using NYC real-time biking data & hourly weather data.
