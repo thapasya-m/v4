@@ -1,11 +1,11 @@
 {
   "name": "v4",
   "description": "Personal Website V4",
-  "version": "1.0.1",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "version": "1.0.2",
+  "author": "Thapasya Murali <thapasya.murali@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/thapasya-m/v4"
   },
   "keywords": [
     "gatsby"

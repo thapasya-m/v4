@@ -145,11 +145,11 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm Thapasya and I enjoy toying with data especially at large scale. My growing
-              interest dates back to 2017 updating backend API &amp; SQL framework with Azure
-              messaging queue. Over the years, I built various ETL pipeline using KafKa streaming &
-              AWS cloud services. Currently, I am finishing my grad school majoring in data
-              science!!
+              Hello! I'm Thapasya and I enjoy toying with data to make sense of it, especially at
+              large scale. My growing interest dates back to updating building API &amp; SQL
+              framework with Azure messaging queue. Over the years, I built various ETL pipeline
+              using KafKa streaming & AWS cloud services, including visualization dashboards and
+              models.
             </p>
 
             {/* <p>

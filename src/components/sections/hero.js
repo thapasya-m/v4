@@ -62,18 +62,16 @@ const Hero = () => {
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Thapasya Murali.</h2>;
   const three = (
-    <h3 className="big-heading">
-      I am a data enthusiast who designs data framework & trains neural models.
-    </h3>
+    <h3 className="big-heading">I am a data enthusiast who designs data pipeline & dashboards.</h3>
   );
   const four = (
     <>
       <p>
-        I’m a data engineer specializing in building (and occasionally designing) data-intensive
-        pipelines. Currently, I’m focused on building scalable, accessible data pipelines & cloud
-        solutions at{' '}
-        <a href="https://rochester.edu" target="_blank" rel="noreferrer">
-          University of Rochester
+        I am a data enthusiast who transforms and curates data into insightful visualizations
+        driving key business decisions. Currently, I’m focused on building scalable, accessible data
+        pipelines for{' '}
+        <a href="https://wnyraptor.com/" target="_blank" rel="noreferrer">
+          WNY Raptor and Wildlife Care
         </a>
         .
       </p>

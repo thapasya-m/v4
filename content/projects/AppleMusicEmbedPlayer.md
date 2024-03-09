@@ -8,7 +8,7 @@ tech:
   - PySpark
   - Jupyter Notebook
 company: 'UoR'
-showInProjects: false
+showInProjects: true
 ---
 
 Built a biking forecast model using NYC real-time biking data & hourly weather data.

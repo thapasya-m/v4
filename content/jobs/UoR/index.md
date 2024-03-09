@@ -1,15 +1,14 @@
 ---
 date: '2023-03-27'
-title: 'Graduate research assitant'
+title: 'Graduate research analyst'
 company: 'Univeristy of rochester'
 location: 'Rochester, NY'
-range: 'Jan - October 2023'
+range: 'Jan - December 2023'
 url: 'https://www.rochester.edu/'
 ---
 
-- Engineered a bash (SLURM) script that seamlessly integrated over 3 university and lab servers, reducing processing time by over 10 hours while building a seismic data pipeline and preparing source-to-target mapping.
-- Leveraged AWS Lambda, S3, and RDS in an ETL pipeline, hosted on a Linux cluster within a university server environment.
-- Orchestrated the creation of an ETL pipeline on a university server, significantly decreasing processing time by more than 10 hours using parallelized job execution in bash/shell scripts.
-- Reconfigured the Wasserstein GAN with Markov Chain Monte Carlo model in MATLAB to generate synthetic 2D oceanic data from a dataset spanning over 500 Pacific stations over the last 20 years.
-- Trained a lung ultrasound centric convolutional network for video classification in lung ultrasound, achieving an impressive 85% training accuracy using TensorFlow & Jupyter notebook.
-- Innovated the convolution network architecture by incorporating class-activated map (CAM) weights from a prior VGG-16 variant model, resulting in a remarkable increase in precision up to 83%.
+- Monitored and mapped seismic events of over 20-50 years on the visualization dashboard built using Python Matplot Basemap toolkit and Seaborn providing valuable insight into patterns & trends.
+- Employed RedShift, AWS Lambda, API Gateway, & CloudWatch in ETL pipeline to proficiently process, monitor, and analyze 45GB of oceanic data, showcasing proficiency in AWS.
+- Spearheaded ETL pipeline ingesting bike trip data & enhanced forecasting model using PySpark on Databricks platform with producing forecast accuracy around 75% hourly, 82% daily.
+- Improved statistical grid mapping technique for GAN model with Markov Chain Monte Carlo distribution in MATLAB, resulting in 3.5% reduction in loss for synthetic 2D data.
+- Optimized convolutional network (CNN) for ultrasound image classification, achieving 83% precision & 85% accuracy.
